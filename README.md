@@ -1,7 +1,7 @@
 # 🏢 Corporación Tecnología Innovated S.A.C.  
 📌 *Innovación y tecnología al servicio de tu empresa*  
 
-![InnovaTED](https://via.placeholder.com/1200x400.png?text=Corporacion+Tecnologia+Innovated+S.A.C.)  
+![InnovaTED]([https://via.placeholder.com/1200x400.png](https://axsistec.com/wp-content/uploads/2023/09/equipo-de-desarrollo-de-software-1.jpg)?text=Corporacion+Tecnologia+Innovated+S.A.C.)  
 ---
 
 ## 📌 ¿Quiénes somos?  
