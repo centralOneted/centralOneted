@@ -26,22 +26,14 @@
 ---
 
 ## 🔧 Tecnologías que utilizamos  
-💻 **Frontend:** Angular, React, Vue.js  
-🖥 **Backend:** Node.js, .NET, Java, PHP  
+💻 **Frontend:** Angular, 
+🖥 **Backend:** Node.js, .type Script, Pyton 
 📱 **Móvil:** Flutter, React Native, Kotlin  
 📊 **Bases de datos:** MySQL, PostgreSQL, MongoDB  
 ☁ **Cloud & DevOps:** AWS, Azure, Docker, CI/CD  
 
 ---
 
-## 📂 Estructura de Repositorios  
-Para una mejor organización, manejamos nuestras soluciones en distintas áreas:  
-```
-factuted/
-│── comercial/
-│── moda/
-│── carnes/
-```
 Cada una de estas carpetas contiene módulos específicos según el rubro del negocio, asegurando una gestión eficiente y escalable.  
 
 ---
