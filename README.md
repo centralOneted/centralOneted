@@ -26,10 +26,14 @@
 ---
 
 ## 🔧 Tecnologías que utilizamos  
-💻 **Frontend:** Angular, 
-🖥 **Backend:** Node.js, .type Script, Pyton 
-📱 **Móvil:** Flutter, React Native, Kotlin  
-📊 **Bases de datos:** MySQL, PostgreSQL, MongoDB  
+💻 **Frontend:
+** Angular, 
+🖥 **Backend:
+** Node.js, .type Script, Pyton 
+📱 **Móvil:
+** Flutter, React Native, Kotlin  
+📊 **Bases de datos:
+** MySQL, PostgreSQL, MongoDB  
 ☁ **Cloud & DevOps:** AWS, Azure, Docker, CI/CD  
 
 ---
