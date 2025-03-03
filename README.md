@@ -1,4 +1,4 @@
-<img src="https://axsistec.com/wp-content/uploads/2023/09/equipo-de-desarrollo-de-software-1.jpg" alt="InnovaTED" width="100%">  
+
 # 🏢 Corporación Tecnología Innovated S.A.C.  
 📌 *Innovación y tecnología al servicio de tu empresa*  
 ---
