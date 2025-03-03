@@ -1,5 +1,6 @@
 
-# 🏢 Corporación Tecnología Innovated S.A.C.  
+# 🏢 Corporación Tecnología Innovated S.A.C.
+
 📌 *Innovación y tecnología al servicio de tu empresa*  
 ---
 ## 📌 ¿Quiénes somos?  
