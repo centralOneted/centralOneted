@@ -6,11 +6,7 @@
 
 ## 🔧 Tecnologías que utilizamos  
 💻 **Frontend:** Angular  
-🖥 **Backend:** Node.js, TypeScript,pyton  
+🖥 **Backend:** Node.js, TypeScript, pyton  
 📊 **Bases de datos:** MySQL, SQL 
-
 ---
 
----
-
-💡 **En InnovaTED S.A.C., la tecnología es nuestra herramienta para la innovación. ¡Hablemos y llevemos tu negocio al siguiente nivel!** 🚀
