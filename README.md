@@ -7,8 +7,8 @@
 ## 🔧 Tecnologías que utilizamos  
 
 💻 **Frontend:** Angular  
-🖥 **Backend:** Node.js, TypeScript, pyton  
-📊 **Bases de datos:** MySQL, SQL 
+🖥 **Backend:** Node.js, TypeScript, Phyton  
+📊 **Bases de datos:** MySQL, SQL Server
 
 ---
 
